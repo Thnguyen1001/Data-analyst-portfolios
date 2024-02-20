@@ -6,6 +6,9 @@ thanhnguyen.github.io/portfolio
 #### Profile
 Outcome-driven and successful at managing multiple priorities with a high attention to detail. Strong capability in problem-solving by leveraging data analysis to drive business value. Technical skills in SQL, Power BI, DAX, Power Query and Excel VBA to improve workflows, productivity and reliability.
 
+## Projects
+![Call centre PBI DASHBOARD](Call centre BI.pdf)
+
 
 ## Work Experience
 **PAYMENT OPERATIONS ANALYST | AUSTRALIAN PAYMENT PLUS | 09/23- CURRENT**
@@ -28,5 +31,6 @@ Outcome-driven and successful at managing multiple priorities with a high attent
 - Implemented process improvements based on insights derived from data analysis, leading to a 20% increase in the effectiveness of team productivity and closing the knowledge gap.
 - Provided technical and business support that met merchant needs and resulted in the best outcome for consumers of Tyro Banking and Payment Products.
 
-## Projects
+
+
 
