@@ -7,8 +7,7 @@ thanhnguyen.github.io/portfolio
 Outcome-driven and successful at managing multiple priorities with a high attention to detail. Strong capability in problem-solving by leveraging data analysis to drive business value. Technical skills in SQL, Power BI, DAX, Power Query and Excel VBA to improve workflows, productivity and reliability.
 
 ## Projects
-[<object data="..Data-analyst-portfolios/Call centre BI.pdf" width="1000" height="1000" type='application/pdf'></object>](https://github.com/Thnguyen1001/Data-analyst-portfolios/blob/6aed49ec697dcbee341a923d8a1d9a7efb8e79bd/Call%20centre%20BI.pdf)
-
+Call centre BI.pdf
 
 ## Work Experience
 **PAYMENT OPERATIONS ANALYST | AUSTRALIAN PAYMENT PLUS | 09/23- CURRENT**
