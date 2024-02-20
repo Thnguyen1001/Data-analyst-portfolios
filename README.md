@@ -10,7 +10,8 @@ Outcome-driven and successful at managing multiple priorities with a high attent
 [Call centre PBI DASHBOARD (/Call centre BI.PDF)
 Data-analyst-portfolios/Call centre BI.pdf](https://github.com/Thnguyen1001/Data-analyst-portfolios/blob/main/Call%20centre%20BI.pdf)
 
-Ecom sales dashboard PBI https://github.com/Thnguyen1001/Data-analyst-portfolios/edit/main/Ecome%20sale%20dashboard.pdf
+##### i.Ecom sales dashboard PBI
+![1 Sale DashBoard] (https://github.com/Thnguyen1001/Data-analyst-portfolios/edit/main/Ecome%20sale%20dashboard.pdf](https://github.com/Thnguyen1001/Data-analyst-portfolios/blob/main/Ecom%20sale%20dashboard.png)
 
 
 
