@@ -8,17 +8,7 @@ Outcome-driven and successful at managing multiple priorities with a high attent
 
 ## Projects
 Call centre PBI DASHBOARD (/Call centre BI.PDF)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Embedded PDF</title>
-</head>
-<body>
-    <iframe src="Call centre BI.pdf" width="100%" height="600px"></iframe>
-</body>
-</html>
+Data-analyst-portfolios/Call centre BI.pdf
 
 
 
