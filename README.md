@@ -7,7 +7,7 @@ thanhnguyen.github.io/portfolio
 Outcome-driven and successful at managing multiple priorities with a high attention to detail. Strong capability in problem-solving by leveraging data analysis to drive business value. Technical skills in SQL, Power BI, DAX, Power Query and Excel VBA to improve workflows, productivity and reliability.
 
 ## Projects
-Call centre BI.pdf
+<object data="..Data-analyst-portfolios/Call centre BI.pdf" width="1000" height="1000" type='application/pdf'></object>
 
 
 ## Work Experience
