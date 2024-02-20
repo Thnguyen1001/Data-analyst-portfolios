@@ -16,9 +16,10 @@ Call centre PBI DASHBOARD (/Call centre BI.PDF)
     <title>Embedded PDF</title>
 </head>
 <body>
-    <embed src="Call centre BI.pdf" type="application/pdf" width="100%" height="600px">
+    <iframe src="Call centre BI.pdf" width="100%" height="600px"></iframe>
 </body>
 </html>
+
 
 
 
