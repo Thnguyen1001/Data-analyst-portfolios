@@ -8,7 +8,7 @@ Outcome-driven and successful at managing multiple priorities with a high attent
 
 ## Projects
 Call centre PBI DASHBOARD 
-https://github.com/Thnguyen1001/Data-analyst-portfolios/blob/237a51460d3f4c4b36ff78b7d4d9032c3887d60a/Call%20centre%20BI.pdf
+
 
 ## Work Experience
 **PAYMENT OPERATIONS ANALYST | AUSTRALIAN PAYMENT PLUS | 09/23- CURRENT**
