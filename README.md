@@ -10,6 +10,8 @@ Outcome-driven and successful at managing multiple priorities with a high attent
 [Call centre PBI DASHBOARD (/Call centre BI.PDF)
 Data-analyst-portfolios/Call centre BI.pdf](https://github.com/Thnguyen1001/Data-analyst-portfolios/blob/main/Call%20centre%20BI.pdf)
 
+(https://github.com/Thnguyen1001/Data-analyst-portfolios/blob/ef2417aa1e4d2731b16d5eaf2ebab6905cbe56bd/Ecome%20sale%20dashboard.pdf)
+
 
 
 
